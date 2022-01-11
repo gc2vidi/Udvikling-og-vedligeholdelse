@@ -15,7 +15,7 @@ Vidi eksisterende liste-modul skal anvendes. Nedenfor ses liste-modulet:
 
 **Forbedrings ønsker:**
 
-Listen bør blive slået fra når laget slukkes, så den forsvinder fra brugerfladen. Alternativt kan det gøres konfigurerbart, så der er i meta er en checkbox: "Tabel/Liste slukkes sammen med laget." Det kan evt. også udføres ved at der laves en "fold tabel ind" knap i brugerfladen.
+Listen bør blive slået fra når laget slukkes, så den forsvinder fra brugerfladen. Og så skal det komme frem igen når laget tændes igen. Alternativt kan det gøres konfigurerbart, så der er i meta er en checkbox: "Tabel/Liste slukkes sammen med laget." Det kan evt. også udføres ved at der laves en "fold tabel ind" knap i brugerfladen.
 
 Der skal i meta kunnne angives en bredde af listen, felt med bredde i %.
 
