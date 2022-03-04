@@ -6,20 +6,20 @@ Tit og ofte når man arbejder med indlejrede kort ifm. formidling, så skal kort
 ## 2. Foreslået løsning
 Allerede i dag er det muligt at skjule Vis forrige/næste mv. vha. den indlejrede kode.
 Det foreslås at udvide dette med mulighed for at kunne vise/skjule følgende:
-Signatur
-Lokalitet
-Lag
-Baggrundskort
-Vis fuld skærm
-Om
+- Signatur
+- Lokalitet
+- Lag
+- Baggrundskort
+- Vis fuld skærm
+- Om
 
 Fx a la:
-data-vidi-legend: "none"
-data-vidi-location: "none"
-data-vidi-layer: "none"
-data-vidi-background: "none"
-data-vidi-fullscreen: "none"
-data-vidi-about: "none"
+- data-vidi-legend: "none"
+- data-vidi-location: "none"
+- data-vidi-layer: "none"
+- data-vidi-background: "none"
+- data-vidi-fullscreen: "none"
+- data-vidi-about: "none"
 
 ## 3. Problemer med bagudkompatibilitet
 
