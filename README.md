@@ -4,12 +4,16 @@ Der er pt. gang i følgende projekter:
 
 [1] **Vidi: Moduler skal kunne undlade at trigge deaktiveringsevents**   
 [2] **Vidi: Embed kort med liste over vector features**   
-[3] **Vidi: Panorer så infobox kan ses i kortet**   
 [4] GC2: Bør understøtte SSO   
 [7] Vidi: Organisering af undergrupper    
 [8] Vidi: Lagsøgning   
 
-De med **fed** er enten tæt på release eller er released med skal forbedres.
+De med **fed** er enten tæt på release eller er released men skal forbedres.   
+
+# Released udviklingsprojekter   
+Versionen projektet først er udgivet i fremgår af ( ).    
+
+[3] Vidi: Panorer så infobox kan ses i korte (Vidi 2022.3.0)    
 
 # Procedure for udvikling og vedligeholdelse
 Her er det meningen, at der opsamles ønsker til videreudvikling af GC2/Vidi, udvikling af nye moduler, tilpasning af eksisterende moduler eller ny funktionalitet, så der skabes en mulighed for at se hvilke ønsker andre har.
