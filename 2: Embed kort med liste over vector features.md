@@ -42,3 +42,4 @@ Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++
 
 GeoFyn++  
 MapCentia ++  
+Kerteminde ++
