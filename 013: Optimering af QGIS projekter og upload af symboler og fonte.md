@@ -21,8 +21,8 @@ Mange anvender QGIS Server integrationen i GC2, som giver muligheden for at ops√
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
+MapCentia++
 
-## 10. Forfatter
+## Forfatter
 Martin H√∏gh, MapCentia   
 
-MapCentia++
