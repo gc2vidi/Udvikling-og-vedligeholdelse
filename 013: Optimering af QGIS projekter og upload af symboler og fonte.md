@@ -23,4 +23,6 @@ Mange anvender QGIS Server integrationen i GC2, som giver muligheden for at ops�
 ## 9. Tilsagn/tilkendegivelse
 
 ## 10. Forfatter
-Martin Høgh, MapCentia
+Martin Høgh, MapCentia   
+
+MapCentia++
