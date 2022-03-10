@@ -7,6 +7,7 @@ Der er pt. gang i følgende projekter:
 [4] GC2: Bør understøtte SSO   
 [7] Vidi: Organisering af undergrupper    
 [8] Vidi: Lagsøgning   
+[10] **Embed-attribut til at slå cookies fra**   
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
