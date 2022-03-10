@@ -28,5 +28,6 @@ Det er indført: https://vidi.readthedocs.io/da/latest/pages/standard/95_embed.h
 ## 7. Arbejdsnoter
 
 ## 8. Issue tracker  
+https://github.com/mapcentia/vidi/commit/8d12c6bab54802e2526e772a76c70555374921e1
 
 ## 9. Tilsagn/tilkendegivelse
