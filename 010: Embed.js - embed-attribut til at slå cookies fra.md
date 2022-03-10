@@ -23,6 +23,8 @@ Ingen
 ## 6. Dokumentationsbehov
 Ja - men minimalt: beskrivelse af ny attribut i den eksisterende dokumentation af embed.js
 
+Det er indført: https://vidi.readthedocs.io/da/latest/pages/standard/95_embed.html#embed-js-script
+
 ## 7. Arbejdsnoter
 
 ## 8. Issue tracker  
