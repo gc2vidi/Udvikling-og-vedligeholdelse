@@ -8,15 +8,19 @@ Mange anvender QGIS Server integrationen i GC2, som giver muligheden for at ops�
 
 ## 2. Foreslået løsning
 1. Der indsættes en funktion før QGS filen parses i GC2. Funktionen opsplitter QGS filen i flere og sender videre til parse-funktionen. Derved skal der ikke laves noget om i sidste nævnte funktion. Der skal dog tages hånd om composite layers, som anvender den samlede QGS file.
-2. Der skal kunne vælges truetype font-filer og svg-filer i QGIS upload i GC2 Admin. På serveren placeres uploadede font-filer i `/app/wms/fonts`. Symboler er lidt mere besværlige, da symbol-folderen ikke kan bruger-defineres i QGIS Server. I GC2 findes den i `/usr/share/qgis/svg`, så uploadede symboler skal placeres her. I QGS filen er path til svg-filer relativ, men ofte vil man i QGIS Desktop placere sine symboler i underfoldere. Fx hvis man henter Mapbox Maki symboler, vil man lægge dem i en folder fx kaldet `mapbox-maki`. I QGS-filen vil den relative sti fremgå således: ```<prop v="mapbox-maki/animal-shelter.svg" k="name"/>```. Så på GC2 serveren skal folder-strukturen også have denne underfolder: `/usr/share/qgis/svg/mapbox-maki`. Udfordringen er at oprette folderen `mapbox-maki` på serveren og få placeret svg-filerne her i. En måde er, at brugeren pakker folderen i en zip-fil og uploader, på serveren udpakkes filen og underfolderen skabes.
+2. Der skal kunne vælges truetype font-filer og svg-filer i QGIS upload i GC2 Admin. På serveren placeres uploadede font-filer i `/app/wms/fonts`. Symboler er lidt mere besværlige, da symbol-folderen ikke kan bruger-defineres i QGIS Server. I GC2 findes den i `/usr/share/qgis/svg`, så uploadede symboler skal placeres her. I QGS filen er path til svg-filer relativ, men ofte vil man i QGIS Desktop placere sine symboler i underfoldere. Fx hvis man henter Mapbox Maki symboler, vil man lægge dem i en folder fx kaldet `mapbox-maki`. I QGS-filen vil den relative sti fremgå således: ```<prop v="mapbox-maki/animal-shelter.svg" k="name"/>```. Så på GC2 serveren skal folder-strukturen også have denne underfolder: `/usr/share/qgis/svg/mapbox-maki`. Udfordringen er at oprette folderen `mapbox-maki` på serveren og få placeret svg-filerne her i. En måde er, at brugeren pakker folderen i en zip-fil og uploader, på serveren udpakkes filen og underfolderen skabes. En anden måde er, at brugeren embeder svg-symboler i projektet, så upload helt undgås. Her skal performance dog tjekkes mellem embedning og ikke. 
 
 ## 3. Problemer med bagudkompatibilitet
+For 1 vil vil der ikke være problemer med eksisterende QGIS lag. Dog skal QGS filer gen-uploades for, at opdelingen sker. For 2 vil font upload ikke have nogen konsekvenser, da font-folderen allerede er et Docker volume og vil persist ved re-deployment. Symboler findes ikke i et volume og der skal foretages en migration. En løsning vil være at placere svg folderen i `app/wms/svg` og symlinke til `/usr/share/qgis/svg`. Derved bliver svg-fileren en del af GC2 installationen.
 
 ## 4. Sikkerhedsmæssige implikationer
+Ingen
 
 ## 5. Performance-implikationer
+Vil skabe bedre performance i QGIS lag.
 
 ## 6. Dokumentationsbehov
+Skal dokumenteres i GC2 vejledningen.
 
 ## 7. Arbejdsnoter
 
