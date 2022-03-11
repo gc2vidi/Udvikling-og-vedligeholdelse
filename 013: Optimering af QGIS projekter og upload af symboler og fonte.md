@@ -28,6 +28,7 @@ Skal dokumenteres i GC2 vejledningen.
 
 ## 9. Tilsagn/tilkendegivelse
 MapCentia++
+Kerteminde +
 
 ## Forfatter
 Martin Høgh, MapCentia   
