@@ -14,7 +14,7 @@ Der skal i meta kunnne angives en bredde af listen, felt med bredde i %.
 
 Der skal i meta kunne angives en transparens for tabellen, så man kan se kortet under tabellen.
 
-**Kommentarer**
+**Kommentarer**  
 Ang. transparens så ligger tabellen ikke ovenpå kortet, men pladsen bliver fordelt mellem kort og liste. Det vil være sværere at placere listen ovenpå kortet, da den i såfald vil skjule kort-navigations-knapperne.
 
 Bredde/højde styres i config og ikke i Meta.
