@@ -13,7 +13,7 @@ De med **fed** er enten tæt på release eller er released men skal forbedres.
 Versionen projektet først er udgivet i fremgår af ( ).    
 
 [3] Vidi: Panorer så infobox kan ses i korte (Vidi 2022.3.0)    
-[10] Embed-attribut til at slå cookies fra (Vidi 2022.3.1)
+[10] Embed-attribut til at slå cookies fra (Vidi 2022.3.1)  
 [2] Vidi: Embed kort med liste over vector features(Vidi 2022.3.1)      
 
 # Procedure for udvikling og vedligeholdelse
