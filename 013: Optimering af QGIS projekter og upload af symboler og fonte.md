@@ -27,7 +27,7 @@ Skal dokumenteres i GC2 vejledningen.
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-MapCentia++
+MapCentia++  
 Kerteminde +
 
 ## Forfatter
