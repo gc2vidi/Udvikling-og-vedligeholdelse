@@ -20,4 +20,5 @@ Ikke besynderligt meget.
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-Kerteminde ++
+Kerteminde ++  
+MapCentia ++  
