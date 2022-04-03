@@ -4,7 +4,7 @@
 Mange anvender QGIS Server integrationen i GC2, som giver muligheden for at opsætte projekter i QGIS Desktop og derefter genbruge projekterne  i GC2. Det virker sådant set fint, men der et par ting, som bør forbedres:
 
 1. Store projekt-filer (QGS) med mange layer definitions (QLR) kan reducere performance i QGIS Server. En løsning er, at brugeren opdeler sit projekt i mindre projekter. Men dette er besværligt og ofte bliver det ikke optimalt, da det ofte er er urealistisk at lave et projekt pr. lag. Derfor bør QGS filen opsplites automatisk i ét lag pr. QGS på serveren.
-2. Symboler og fonte, som anvendes i et QGIS projekt skal også være på serveren. På GC2 serveren findes QGIS standard symboler (dem, som kommer med installationen af QGIS) samt de mest almindelige Windows truetype fonte. Men anvender man symboler og fonte ud over de nævnte, skal disse manuelt placeres på GC2 serveren, hvilket den almindelige bruger ikke er i stand til. Derfor bør brugeren kunne uploade symboler og fonte sammen med sin QGS fil.  
+2. Symboler og fonte, som anvendes i et QGIS projekt skal også være på serveren. På GC2 serveren findes QGIS standard symboler (dem, som kommer med installationen af QGIS) samt de mest almindelige Windows truetype fonte. Men anvender man symboler og fonte ud over de nævnte, skal disse manuelt placeres på GC2 serveren, hvilket den almindelige bruger ikke er i stand til. Derfor bør brugeren kunne uploade symboler og fonte sammen med sin QGS fil.
 
 ## 2. Foreslået løsning
 1. Der indsættes en funktion før QGS filen parses i GC2. Funktionen opsplitter QGS filen i flere og sender videre til parse-funktionen. Derved skal der ikke laves noget om i sidstnævnte funktion. Der skal dog tages hånd om composite layers, som anvender den samlede QGS file.
@@ -23,6 +23,7 @@ Vil skabe bedre performance i QGIS lag.
 Skal dokumenteres i GC2 vejledningen.
 
 ## 7. Arbejdsnoter
+Efter min erfaring performer embed af svg symboler fint, projektfilerne bliver selvfølgelig lidt større, men hvis de splittes efter lag, så mindskes den udfordring jo også./AGF
 
 ## 8. Issue tracker  
 
