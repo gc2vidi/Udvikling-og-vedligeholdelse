@@ -19,7 +19,7 @@ Ingen
 Minimalt - funktionen kræver ikke vejledning 
 
 ## 7. Arbejdsnoter
-Er implementeret i Vidi version 5.1 
+Er implementeret i Vidi version 2022.5.1 
 
 ## 8. Issue tracker  
 
