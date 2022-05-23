@@ -20,6 +20,7 @@ Ingen
 Skal dokumenteres.
 
 ## 7. Arbejdsnoter
+MH: Undergrupper opfører sig egentlig som forventet. Undergruppens placering i gruppen styres af Sort id. Så hvis undergruppen skal placeres øverst skal et lag i undergruppen have gruppens højeste Sort id. Dette system gør, at en undergruppen kan placeres der hvor brugeren ønsker det: I toppen, i bunden eller eller to lag.
 
 ## 8. Issue tracker
 
