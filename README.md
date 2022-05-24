@@ -4,7 +4,7 @@ Der er pt. gang i følgende projekter:
 
 [1] **Vidi: Moduler skal kunne undlade at trigge deaktiveringsevents**   
 [4] GC2: Bør understøtte SSO   
-[7] Vidi: Organisering af undergrupper    
+[7] **Vidi: Organisering af undergrupper**    
 [12] Vidi: Styring af antal værktøjer i Vidi embed/indlejret   
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
