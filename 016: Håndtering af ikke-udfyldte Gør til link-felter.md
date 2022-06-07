@@ -21,4 +21,5 @@ Det foreslås, at hvis feltet for et givent objekt ikke er udfyldt, så vises fe
 
 ## 9. Tilsagn/tilkendegivelse
 Geo Fyn ++
+
 Kerteminde ++
