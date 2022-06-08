@@ -6,6 +6,7 @@ Der er pt. gang i følgende projekter:
 [4] GC2: Bør understøtte SSO   
 [7] **Vidi: Organisering af undergrupper**    
 [12] Vidi: Styring af antal værktøjer i Vidi embed/indlejret   
+[16]: Håndtering af ikke-udfyldte Gør til link-felter
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
