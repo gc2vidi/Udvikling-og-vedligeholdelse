@@ -22,12 +22,16 @@ Fx a la:
 - data-vidi-about: "none"
 
 ## 3. Problemer med bagudkompatibilitet
+Ingen.   
 
 ## 4. Sikkerhedsmæssige implikationer
+Ingen.   
 
 ## 5. Performance-implikationer
+Ingen.   
 
 ## 6. Dokumentationsbehov
+Skal dokumenteres: https://vidi.readthedocs.io/da/latest/pages/standard/95_embed.html
 
 ## 7. Arbejdsnoter
 
