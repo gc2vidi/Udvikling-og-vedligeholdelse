@@ -5,7 +5,6 @@ Der er pt. gang i følgende projekter:
 [001] **Vidi: Moduler skal kunne undlade at trigge deaktiveringsevents**   
 [004] GC2: Bør understøtte SSO   
 [007] **Vidi: Organisering af undergrupper**    
-[012] Vidi: Styring af antal værktøjer i Vidi embed/indlejret   
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
@@ -19,6 +18,8 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [016] Håndtering af ikke-udfyldte Gør til link-felter (Vidi 2022.6.1)   
 [015] Styring af zoomniveau og displayrækkefølge for vektorlag (Vidi og GC2 2022.8.0)  
 [017] Indstilling så Vidi altid starter med samme zoom/center (Vidi 2022.8.2)   
+[012] Vidi: Styring af antal værktøjer i Vidi embed/indlejret (Vidi 2022.9.0)   
+
 
 # Procedure for udvikling og vedligeholdelse
 Her er det meningen, at der opsamles ønsker til videreudvikling af GC2/Vidi, udvikling af nye moduler, tilpasning af eksisterende moduler eller ny funktionalitet, så der skabes en mulighed for at se hvilke ønsker andre har.
