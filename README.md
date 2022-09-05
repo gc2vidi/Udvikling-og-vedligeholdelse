@@ -17,7 +17,8 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [002] Vidi: Embed kort med liste over vector features (Vidi 2022.3.1)      
 [008] Vidi: Lagsøgning (Vidi 2022.5.1)     
 [016] Håndtering af ikke-udfyldte Gør til link-felter (Vidi 2022.6.1)   
-[015] Styring af zoomniveau og displayrækkefølge for vektorlag (Vidi og GC2 2022.8.0)   
+[015] Styring af zoomniveau og displayrækkefølge for vektorlag (Vidi og GC2 2022.8.0)  
+[017]: Indstilling så Vidi altid starter med samme zoom/center (Vidi 2022.8.2)   
 
 # Procedure for udvikling og vedligeholdelse
 Her er det meningen, at der opsamles ønsker til videreudvikling af GC2/Vidi, udvikling af nye moduler, tilpasning af eksisterende moduler eller ny funktionalitet, så der skabes en mulighed for at se hvilke ønsker andre har.
