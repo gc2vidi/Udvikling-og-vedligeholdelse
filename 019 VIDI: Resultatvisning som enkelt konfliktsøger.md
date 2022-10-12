@@ -22,7 +22,7 @@ Som tabel:
 |L.116 - Hareskovby|Boligområde|[Link til lokalplan Hareskovby]()|
 
 Som tekst:   
-`Du er omfattet af lokalplan L.116 – Hareskovby. [Klik her for at se lokalplan]().`
+"Du er omfattet af lokalplan L.116 – Hareskovby. [Klik her for at se lokalplan]()."   
 
 Svaret må gerne komme i relation til kortet, som automatisk zoomer til den lokalplan, som adressen eller matriklen intersecter med. Dette vil give svaret en ekstra dimension, i og med at borgeren kan se hele afgræsningen af lokalplanen og samtidig en marker for den adresse eller matrikel (måske centroide) som der er søgt med.
 
