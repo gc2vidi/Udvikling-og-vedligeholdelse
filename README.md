@@ -4,7 +4,6 @@ Der er pt. gang i følgende projekter:
 
 [001] **Vidi: Moduler skal kunne undlade at trigge deaktiveringsevents**   
 [004] GC2: Bør understøtte SSO   
-[007] **Vidi: Organisering af undergrupper**    
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
