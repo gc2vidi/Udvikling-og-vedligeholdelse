@@ -1,4 +1,4 @@
-[23]: Hurtigere opstart af Vidi 
+# [23]: Hurtigere opstart af Vidi 
 
 ## 1. Motivation
 Vidi fjerner først load-screen (de dansende prikker) når alt er loadet - herunder lag, baggrundskort og lagtræ. Det kan tage lang tid og brugeren ved ikke rigtig
