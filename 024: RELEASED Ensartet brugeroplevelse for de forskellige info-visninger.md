@@ -1,4 +1,4 @@
-# 024: Ensartet brugeroplevelse for de forskellige info-visninger
+# [24]: Ensartet brugeroplevelse for de forskellige info-visninger
 
 ## 1. Motivation
 
