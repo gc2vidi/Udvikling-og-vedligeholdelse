@@ -18,6 +18,8 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [015] Styring af zoomniveau og displayrækkefølge for vektorlag (Vidi og GC2 2022.8.0)  
 [017] Indstilling så Vidi altid starter med samme zoom/center (Vidi 2022.8.2)   
 [012] Vidi: Styring af antal værktøjer i Vidi embed/indlejret (Vidi 2022.9.0)   
+[023] Hurtigere opstart af Vidi (2022.11.0)   
+[024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
 
 
 # Procedure for udvikling og vedligeholdelse
