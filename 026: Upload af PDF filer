@@ -7,6 +7,8 @@ Det vil give mulighed for eks. at gemme vejledninger olign. på objekter.
 
 ## 2. Foreslået løsning
 
+Tilføjelse af pdf som type på feltniveau, kan så bruges på bytea felttyper som billeder og video.
+
 ## 3. Problemer med bagudkompatibilitet
 
 ## 4. Sikkerhedsmæssige implikationer
