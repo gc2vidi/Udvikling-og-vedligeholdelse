@@ -24,3 +24,4 @@ Tilføjelse af pdf som type på feltniveau, kan så bruges på bytea felttyper s
 ## 9. Tilsagn/tilkendegivelse
 
 GEOsmeden++
+Syddjurs++
