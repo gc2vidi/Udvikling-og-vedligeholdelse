@@ -24,3 +24,4 @@ Mulighed for at have en liste af baggrundskort som ligger udenfor konfiguratione
 ## 9. Tilsagn/tilkendegivelse
 
 GEOsmeden++
+Kerteminde ++
