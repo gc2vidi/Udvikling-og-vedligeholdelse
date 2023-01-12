@@ -19,6 +19,8 @@ Mulighed for at have en liste af baggrundskort som ligger udenfor konfiguratione
 
 ## 7. Arbejdsnoter
 
+https://github.com/vivocha/jsonref
+
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
