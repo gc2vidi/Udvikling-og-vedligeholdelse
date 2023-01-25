@@ -1,4 +1,4 @@
-# [25]:  Opgrader til Boostrap 5.2
+# [25]:  Opgradering til Bootstrap 5.2
 
 ## 1. Motivation
 Nu anvendes Bootstrap 3.4 med en tidlig version af MDB theme plus nogle andre projekter fx snackbar.js. Der er lavet en del css hacks og eksplicitte styles for at få ting til at se pæne ud. Dynamisk ændring af css gennem eksterne filer er derfor vanskeliggjort, da brugeren ikke blot kan se i Bootstrap dokumentationen, men skal bruge en web-inspector for at se hvordan regler er defineret.
