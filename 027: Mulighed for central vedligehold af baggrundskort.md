@@ -9,7 +9,7 @@ Når man efterhånden får mange konfigurationer, så er det en ret omstændelig
 
 Mulighed for at have en liste af baggrundskort som ligger udenfor konfigurationer, men kan hentes af konfigurationer. Gerne mulighed for flere lister, det er ikke altid ønskeliget med de samme baggrundskort i alle konfigurationer.
 
-Dette bør kunne gøre med JSON pointers. Det er noget, som skal processeres i Node, men css filerne bliver allerede hentet gennem Node.
+Dette bør kunne gøre med JSON Reference. Det er noget, som skal processeres i Node, men css filerne bliver allerede hentet gennem Node.
 
 Der kan defineres i JSON fil med en række baselayers opsaetninger:
 
