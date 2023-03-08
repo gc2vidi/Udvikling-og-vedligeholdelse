@@ -21,3 +21,4 @@ Der laves en knap, som skifter mellem baggrundskort, som er mærket med f.eks. e
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
+GEOsmeden ++
