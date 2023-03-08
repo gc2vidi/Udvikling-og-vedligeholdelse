@@ -21,3 +21,5 @@ Tilpasnining af VIDI, så fuldskærmsvisning også virker på IOS.
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
+
+GEOsmeden ++
