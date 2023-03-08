@@ -19,3 +19,5 @@ Når man redigerer direkte i en tabel, så vise det med * at et felt er krævet.
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
+GEOsmeden ++
+Syddjurs ++
