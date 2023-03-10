@@ -22,3 +22,4 @@ Der laves en knap, som skifter mellem baggrundskort, som er mærket med f.eks. e
 
 ## 9. Tilsagn/tilkendegivelse
 GEOsmeden ++
+Geo Fyn ++
