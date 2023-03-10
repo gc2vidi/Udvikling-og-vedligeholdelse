@@ -22,3 +22,4 @@ Ikke besynderligt meget.
 ## 9. Tilsagn/tilkendegivelse
 Kerteminde ++  
 MapCentia ++  
+Geo Fyn ++
