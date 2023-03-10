@@ -20,5 +20,5 @@ Når man redigerer direkte i en tabel, så vise det med * at et felt er krævet.
 
 ## 9. Tilsagn/tilkendegivelse
 GEOsmeden ++
-
 Syddjurs ++
+Geo Fyn ++
