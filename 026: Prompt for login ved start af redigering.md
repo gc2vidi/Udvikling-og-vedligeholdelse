@@ -24,3 +24,4 @@ Forslaget om at logge ind, kan komme f.eks. når man trykker submit efter redige
 
 GEOsmeden++  
 Syddjurs++
+Geo Fyn++
