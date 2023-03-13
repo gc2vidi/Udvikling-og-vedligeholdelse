@@ -6,7 +6,7 @@ Man kan starte en redigering eller oprettelse af nye objekter uden at være logg
 
 ## 2. Foreslået løsning
 
-Forslaget om at logge ind, kan komme f.eks. når man trykker submit efter redigering. Eller det kan komme når man trykker på + for at lave et nyt objekt, eller på blyanten/skraldespanden for at redigere eller slette et objekt.
+Forslaget om at logge ind, kan komme f.eks. når man trykker submit efter redigering. Eller det kan komme når man trykker på + for at lave et nyt objekt, eller på blyanten/skraldespanden for at redigere eller slette et objekt. Det foreslås også, at det i en config kan styres, om editeringsværktøjerne vises når man ikke er logget ind. med en true false værdi.
 
 ## 3. Problemer med bagudkompatibilitet
 
