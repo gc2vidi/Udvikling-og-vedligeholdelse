@@ -6,9 +6,9 @@ Funktionaliteten er i dag lidt teknisk/nørdet.
 
 ## 2. Foreslået løsning
 Det foreslås, at udvide config-filen med mulighed for at angive om man vil have:
-- Både Swipe og Overlap
-- Kun Swipe (vi synes at det skal omdøbes til Slider)
-- Kun Overlap
+- Der kan vælges både Swipe og Overlap
+- Kun Swipe tilgængelig(vi synes at det skal omdøbes til Slider)
+- Kun Overlap tilgængelig
 
 Desuden skal det være muligt at aktivere det fra start, så værktøjet ikke kun vises, men også er aktiveret fra start. Igen en config-ting.
 
