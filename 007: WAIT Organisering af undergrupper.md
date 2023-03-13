@@ -28,4 +28,5 @@ MH: Undergrupper opfører sig egentlig som forventet. Undergruppens placering i 
 Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++ for deltagelse i financieringen.
 
 Cowi ++
+
 Kerteminde ++  
