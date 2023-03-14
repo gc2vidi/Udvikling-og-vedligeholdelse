@@ -22,4 +22,5 @@ Det foreslås, at der i GC2 Admin gives mulighed for at angive at en tabel, view
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-Geo Fyn ++
+Geo Fyn ++  
+Kerteminde ++
