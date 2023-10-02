@@ -20,7 +20,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [012] Vidi: Styring af antal værktøjer i Vidi embed/indlejret (Vidi 2022.9.0)   
 [023] Hurtigere opstart af Vidi (2022.11.0)   
 [020] Vidi: Vektorlag og info-visning styret af max/min zoom i Meta (Bootstrap 5)   
-[021] Vidi: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit (Bootstrap 5)   
+[021] Vidi: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit (Bootstrap 5)    
 [024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
 
 
