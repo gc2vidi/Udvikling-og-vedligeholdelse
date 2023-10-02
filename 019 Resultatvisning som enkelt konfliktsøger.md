@@ -1,4 +1,4 @@
-# 019: Resultatvisning som enkelt konfliktsøger
+# [19]: Resultatvisning som enkelt konfliktsøger
 
 ## 1. Motivation
 I dag er det muligt i et VIDI-kort at søge sin adresse og matrikel i kortet og zoome til denne. Samtidig kan man lægge et eller flere lagtemaer i kortet, hvorved brugeren selv kan foretage en fortolkning af, om brugerens søgning er omfattet af lagtemaet og hvis temaet er kategoriseret, så også hvilken kategori, brugerens adresse/matrikel falder ind under. Samtidig er det muligt at lave en popup-infoboks eller en infoboks som mouse over, som så muliggør at brugeren kan få yderligere informationer om det lagtema, som kortet viser.   
