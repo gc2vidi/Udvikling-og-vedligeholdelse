@@ -1,4 +1,4 @@
-# [033]: Mulighed for angivelse af standard extent
+# [33]: Mulighed for angivelse af standard extent
 
 ## 1. Motivation
 Zoomer man ikke ind i GC2 admin og sætter schema pr. schema vil WMS ikke fungere i QGIS og andre webkort-platforme.
