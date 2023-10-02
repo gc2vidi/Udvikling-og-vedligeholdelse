@@ -19,6 +19,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [017] Indstilling så Vidi altid starter med samme zoom/center (Vidi 2022.8.2)   
 [012] Vidi: Styring af antal værktøjer i Vidi embed/indlejret (Vidi 2022.9.0)   
 [023] Hurtigere opstart af Vidi (2022.11.0)   
+[021] Vidi: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit (Bootstrap5)
 [024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
 
 
