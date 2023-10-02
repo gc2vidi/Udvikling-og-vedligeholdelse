@@ -9,14 +9,19 @@ Ligeledes er der udviklet en mulighed for at tilknytte et eller flere fotos til 
 Det foreslås, at MapCentia estimerer opgaven og fremlægger en plan for implementeringen.
 
 ## 3. Problemer med bagudkompatibilitet
+Ingen.
 
 ## 4. Sikkerhedsmæssige implikationer
+Ingen.
 
 ## 5. Performance-implikationer
+Ingen.
 
 ## 6. Dokumentationsbehov
+Skal dokumenteres i manualen.
 
 ## 7. Arbejdsnoter
+Download af data er implementeret i Ny Vidi.
 
 ## 8. Issue tracker  
 
