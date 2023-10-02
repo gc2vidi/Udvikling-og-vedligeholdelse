@@ -1,4 +1,4 @@
-# [028]: Fuldskærm af embed kort indlejret i anden hjemmeside (IOS)
+# [28]: Fuldskærm af embed kort indlejret i anden hjemmeside (IOS)
 
 ## 1. Motivation
 
