@@ -1,4 +1,4 @@
-# 018: Udvidelse af funktionalitet i Brevflet-modul
+# [18]: Udvidelse af funktionalitet i Brevflet-modul
 
 ## 1. Motivation
 I dag er det muligt at aktivere et Brevflet-modul, der på baggrund af tegnet geometri, fremsøger ejere på de berørte adresser. Dette gøres ved at aktivere et eksternt program, EjdExplorer fra LIFA.
