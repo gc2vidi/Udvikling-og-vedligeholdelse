@@ -1,4 +1,4 @@
-# 014: Konfliktsøgning i Vidi bør understøtte variabel buffer
+# [14]: Konfliktsøgning i Vidi bør understøtte variabel buffer
 
 ## 1. Motivation
 Når man opretter en konfliktsøgning i dag, søges der med én buffer på tværs alle lag. Mine brugere efterspørger en mulighed for en mindre/større buffer på nogle bestemte lag.
