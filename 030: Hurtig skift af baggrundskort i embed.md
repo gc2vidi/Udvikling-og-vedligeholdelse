@@ -1,4 +1,4 @@
-# [30]: [Hurtig skift af baggrundskort i embed]
+# [30]: Hurtig skift af baggrundskort i embed
 
 ## 1. Motivation
 
