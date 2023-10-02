@@ -1,4 +1,4 @@
-# [21]: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit
+# [21]: RELEASED Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit
 
 ## 1. Motivation
 I dag er der ikke en funktionalitet, som giver mulighed for at gøre brugeren opmærksom på, at det lag eller baggrundskort der netop er valgt ikke har et indhold i det aktuelle kortvindue.
