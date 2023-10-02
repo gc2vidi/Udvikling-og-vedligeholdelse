@@ -3,7 +3,8 @@
 Der er pt. gang i følgende projekter:
 
 [004] GC2: Bør understøtte SSO   
-[009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi
+[009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi    
+[030] Vidi: [Hurtig skift af baggrundskort i embed]
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
