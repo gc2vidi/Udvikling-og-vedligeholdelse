@@ -1,4 +1,4 @@
-# [31]: [Styring af antal viste WFS-lag]
+# [31]: Styring af antal viste WFS-lag
 
 ## 1. Motivation
 
