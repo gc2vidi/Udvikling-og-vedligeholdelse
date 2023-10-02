@@ -24,6 +24,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [021] Vidi: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit (Bootstrap 5)    
 [024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
 [025] Vidi: Opgradering til Bootstrap 5.2 (Bootstrap 5)    
+[031] GC2: Styring af antal viste WFS-lag (Bullseye)     
 
 
 # Procedure for udvikling og vedligeholdelse
