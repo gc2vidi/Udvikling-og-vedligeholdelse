@@ -1,4 +1,4 @@
-# [9]: Implementering af GeoDanmark GeoFA funktionalitet i Vidi
+# [9]: Up- og download funktionalitet i Vidi
 
 ## 1. Motivation
 Igennem GeoDanmark GeoFA projektet, som anvender GC2/Vidi, er der blevet udviklet ny funktionalitet.
