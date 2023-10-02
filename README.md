@@ -22,6 +22,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [020] Vidi: Vektorlag og info-visning styret af max/min zoom i Meta (Bootstrap 5)   
 [021] Vidi: Føler på om valgt lag eller baggrundskort har indhold i det aktuelle kortudsnit (Bootstrap 5)    
 [024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
+[025] Vidi:cOpgradering til Bootstrap 5.2 (Bootstrap 5)    
 
 
 # Procedure for udvikling og vedligeholdelse
