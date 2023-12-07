@@ -22,7 +22,7 @@ Ingen.
 Ingen.   
 
 ## 6. Dokumentationsbehov
-Skal dokumenteres på https://geocloud2.readthedocs.io/da/latest/
+Er dokumenteret her: https://vidi.readthedocs.io/da/latest/pages/standard/91_run_configuration.html#advancedbaselayerswitcher
 
 ## 7. Arbejdsnoter
 
