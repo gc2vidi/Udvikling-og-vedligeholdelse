@@ -8,7 +8,6 @@ På nuværende tidspunkt, kan der kun uploades billeder, der er behov for også 
 Tilføj muligheden for upload af PDF og adnre filer, det vil sikkert også kræve tilpasninger af GC2. Tilføjelse af pdf som type på feltniveau, kan så bruges på bytea felttyper som billeder og video.
 
 Der er fundet en løsning, som ikke kræver ændringer til GC2, da Vidi aflæser filens MIME type (filtype) og anvender denne til at bestemme hvordan feltet i både editor, feature-info og tabel skal skabes.   
-
 Derved kan der uploades alle typer af filer til et "bytea" felt. Vidi indholder en liste over image MIME types og applikation MIME types. Disse MIME types er dem, som en browser (typisk) kan vise/indlejre i en web-app. Hvis en filtype ikke findes på listen, vil der vises en boks med et link til download af filen.   
 
 Det skal bemærkes, at det kan være, at ikke alle browsere kan vise alle listens filformater. Fx er Word og Open Document på listen, men det kræver en udvidelse til browseren (som typisk er findes på Windows PC'ere)
@@ -32,9 +31,10 @@ Ingen
 Ved at åbne op for alle type filer, kan der uploades store filer (fx videoer). Da filerne bliver base64 encoded i browseren kan store filer få browseren til at crache. Derfor er der indledningsvis sat en max filstørrelse på 5MB.
 
 ## 6. Dokumentationsbehov
-GC2 "Indhold" option skal dokumenteres jf. ovenstående
+GC2 "Indhold" option skal dokumenteres jf. ovenstående. Listen af understøttede MIME types skal være tilgængelig.
 
 ## 7. Arbejdsnoter
+Her findes listen over MIME types: https://github.com/mapcentia/vidi/blob/bootstrap5/browser/modules/constants.js
 
 ## 8. Issue tracker
 
