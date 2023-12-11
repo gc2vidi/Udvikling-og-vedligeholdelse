@@ -26,6 +26,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [024] Ensartet brugeroplevelse for de forskellige info-visninger (2022.11.1)   
 [025] Vidi: Opgradering til Bootstrap 5.2 (Bootstrap 5)    
 [031] GC2: Styring af antal viste WFS-lag (Bullseye)     
+[011] Vidi-gc2. Upload PDF filer (Bootstrap)    
 
 
 # Procedure for udvikling og vedligeholdelse
