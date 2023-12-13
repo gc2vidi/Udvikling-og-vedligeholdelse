@@ -19,7 +19,9 @@ Her ses en uploaded PDF:
 Her ses med en Excel fil, som ikke kan vises:
 ![image](https://github.com/gc2vidi/Udvikling-og-vedligeholdelse/assets/3850918/36aebe17-7be7-4dbc-b2ff-3d1b36d560fd)
 
-Når der anvendes et bytea felt skal GC2 struktur feltet "Indhold" ikke sættes eller sættes til "Plain", da Vidi selv finder ud af indholdet. Hvis "Indhold" sættes, vil dette overrule filens MIME type og dette kan skabe fejl (fx hvis den sættes til "Image" og der en PDF i feltet). 
+Når der anvendes et bytea felt skal GC2 struktur feltet "Indhold" ikke sættes eller sættes til "Plain", da Vidi selv finder ud af indholdet. Hvis "Indhold" sættes, vil dette overrule filens MIME type og dette kan skabe fejl (fx hvis den sættes til "Image" og der en PDF i feltet).    
+
+Filens navn er en ikke en del af indholdet i filen, så når filen downloades vil den have et standard navn. Dog bestemmes filnavnets extension ud fra MIME typen, så fx et PDF filnavn vil få extension .pdf.
 
 ## 3. Problemer med bagudkompatibilitet
 Ingen
