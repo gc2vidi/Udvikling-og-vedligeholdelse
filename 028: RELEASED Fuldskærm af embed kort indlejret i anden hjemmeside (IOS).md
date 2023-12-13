@@ -6,15 +6,25 @@ Når der er indlejret et embed kort i en hjemmeside, så kan man på Android og 
 
 ## 2. Foreslået løsning
 
-Tilpasnining af VIDI, så fuldskærmsvisning også virker på IOS.
+Den valgte metode er at tjekke om browser APIet document.documentElement.requestFullscreen er defineret. Hvis ikke, så vises knappen ikke. Er APIet ikke defineret kan browseren ikke gå i fuldskærm og det gør det ikke på IOS.   
+
+Vi antager, at hvis APIet eksisterer, så virker det som forventet. Det er tjekket på IOS/Safari/Chrome og Android/Chrome.
 
 ## 3. Problemer med bagudkompatibilitet
 
+Ingen.
+
 ## 4. Sikkerhedsmæssige implikationer
+
+Ingen.
 
 ## 5. Performance-implikationer
 
+Ingen.
+
 ## 6. Dokumentationsbehov
+
+Ingen. Kan være, at det skal nævnes i manualen.
 
 ## 7. Arbejdsnoter
 
