@@ -27,7 +27,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [031] GC2: Styring af antal viste WFS-lag (Bullseye)     
 [011] Vidi-gc2. Upload PDF filer (Bootstrap)    
 [028] Fuldskærm af embed kort indlejret i anden hjemmeside (IOS) (Bootstrap)   
-[030] Vidi: [Hurtig skift af baggrundskort i embed] (Bootstrap)    
+[030] Vidi: Hurtig skift af baggrundskort i embed (Bootstrap)    
 
 
 # Procedure for udvikling og vedligeholdelse
