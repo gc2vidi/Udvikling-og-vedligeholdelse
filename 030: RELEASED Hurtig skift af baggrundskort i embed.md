@@ -14,6 +14,10 @@ Det er lavet sådan, at der er to muligheder:
 
 Kun én widget kan vises adgangen og ingen bliver vist i default.tmpl, som har en regel med `display:none` poå class `baselayer-tool`. Valg af widget sker ved brug af `baselayerDrawer:true|false` i config.
 
+Her ses "skuffen":    
+![image](https://github.com/gc2vidi/Udvikling-og-vedligeholdelse/assets/3850918/7b58fd90-660e-46d1-9c4e-523699a78af8)
+
+
 ## 3. Problemer med bagudkompatibilitet
 Ingen.
 
@@ -24,7 +28,7 @@ Ingen.
 Ingen.
 
 ## 6. Dokumentationsbehov
-Er dokumenteret her: 
+Er dokumenteret her: https://vidi.readthedocs.io/da/latest/pages/standard/91_run_configuration.html#baselayerdrawer
 
 ## 7. Arbejdsnoter
 <del>Er delvis implementeret, hvor de to øverste baselayers kan toggles.</del>
