@@ -8,6 +8,12 @@ Det ville være rart hvis man kunne have mulighed for en simpel/hurtig skift af 
 
 Der laves en knap, som skifter mellem baggrundskort, som er mærket med f.eks. en quickacces parameter i configurationen, og der skiftes så imellem kortene i den rækkefølge de står i konfigurationen, så det ikke kun er begrænset til 2 man kan skifte imellem.
 
+Det er lavet sådan, at der er to muligheder:
+- En "toggle" knap, som toggler mellem de to første definerende baselayers i config.
+- Og en "skuffe", hvorfra man vælge mellem et vilkårligt antal kort. Udvælgelsen sker med en ny property på de enkelte baselayer definitioner.
+
+Kun én widget kan vises adgangen og ingen bliver vist i default.tmpl, som har en regel med `display:none` poå class `baselayer-tool`. Valg af widget sker ved brug af `baselayerDrawer:true|false` i config.
+
 ## 3. Problemer med bagudkompatibilitet
 Ingen.
 
@@ -18,10 +24,10 @@ Ingen.
 Ingen.
 
 ## 6. Dokumentationsbehov
-Skal dokumenteres i manualen.
+Er dokumenteret her: 
 
 ## 7. Arbejdsnoter
-Er delvis implementeret, hvor de to øverste baselayers kan toggles.
+<del>Er delvis implementeret, hvor de to øverste baselayers kan toggles.</del>
 
 ## 8. Issue tracker  
 
