@@ -4,6 +4,7 @@ Der er pt. gang i følgende projekter:
 
 [004] GC2: Bør understøtte SSO   
 [009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi    
+**[027] Vidi: Mulighed for central vedligehold af baggrundskort**     
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
