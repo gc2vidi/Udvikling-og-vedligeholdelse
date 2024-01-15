@@ -29,6 +29,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [011] Vidi-gc2. Upload PDF filer (Bootstrap)    
 [028] Fuldskærm af embed kort indlejret i anden hjemmeside (IOS) (Bootstrap)   
 [030] Vidi: Hurtig skift af baggrundskort i embed (Bootstrap)    
+[025]: Opgradering til Bootstrap 5.2 (Bootstrap)    
 
 
 # Procedure for udvikling og vedligeholdelse
