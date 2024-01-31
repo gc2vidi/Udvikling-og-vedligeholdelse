@@ -46,7 +46,7 @@ Det er så muligt at hentet den ind i config'en således:
         "extent",
         "tag:udgivet"
   ],
-  "baseLayers": {"$ref": "https://..../opsaetning1#"},
+  "baseLayers": {"$ref": "https://....#/opsaetning1"},
 }
 ````
 
@@ -58,9 +58,11 @@ Det er så muligt at hentet den ind i config'en således:
 
 ## 6. Dokumentationsbehov
 
+Er dokumenteret her: 027: RELEASED Mulighed for central vedligehold af baggrundskort.md 
+
 ## 7. Arbejdsnoter
 
-https://github.com/vivocha/jsonref
+[https://github.com/vivocha/jsonref](https://github.com/whitlockjc/json-refs)
 
 ## 8. Issue tracker  
 
