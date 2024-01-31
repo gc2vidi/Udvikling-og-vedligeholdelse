@@ -4,7 +4,6 @@ Der er pt. gang i følgende projekter:
 
 [004] GC2: Bør understøtte SSO   
 [009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi    
-**[027]: Mulighed for central vedligehold af baggrundskort**     
 **[014]: Konfliktsøgning i Vidi bør understøtte variabel buffer**    
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
@@ -31,6 +30,8 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [028] Fuldskærm af embed kort indlejret i anden hjemmeside (IOS) (Bootstrap)   
 [030] Vidi: Hurtig skift af baggrundskort i embed (Bootstrap)    
 [025]: Opgradering til Bootstrap 5.2 (Bootstrap)    
+[027]: Mulighed for central vedligehold af baggrundskort (Bootstrap)     
+
 
 
 # Procedure for udvikling og vedligeholdelse
