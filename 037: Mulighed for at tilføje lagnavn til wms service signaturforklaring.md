@@ -1,6 +1,6 @@
 # 037: Mulighed for at tilføje lagnavn til wms service signaturforklaring
 
-## 1. Mottivation 
+## 1. Motivation 
 Når man opretter et lag fra en wms tjeneste, kan man tilføje en url til signaturforklaringen fra tjenesten. Hvis signaturforklaringen ikke indeholder et lagnavn, så får man kun vist hvad de enkelte signaturer betyder. Så der vil mangle en overskrift.
 
 ## 2. Foreslået løsning
