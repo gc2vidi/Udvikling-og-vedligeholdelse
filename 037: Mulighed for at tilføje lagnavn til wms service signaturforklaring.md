@@ -19,4 +19,4 @@ Det kunne løses enkelt ved, at der laves en check boks, der hvor man i GC2 inds
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-    GEOsmeden+
+GEOsmeden+
