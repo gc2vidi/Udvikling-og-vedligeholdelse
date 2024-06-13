@@ -2,7 +2,7 @@
 # 038: Vidi bør understøtte single tile baggrundskort fra wms tjenster
 
 ## 1. Motivation 
-Når man kllader en wms tjenste requestes tiles, og det får den effekt at tekster kommer med på alle tiles, så det giver nogen uønskede visninger af f.eks. baggrundskort.
+Når man kalder en wms tjenste requestes tiles, og det får den effekt at tekster kommer med på alle tiles, så det giver nogen uønskede visninger af f.eks. baggrundskort.
 
 ## 2. Foreslået løsning
 Tilføj en mulighed for at der i baggrundskort lagopsætning indsættes f.eks. "singletile": {true}.
