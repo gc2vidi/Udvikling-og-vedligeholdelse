@@ -1,0 +1,22 @@
+
+# 039: Implementering i GC2 af muligheden i V4 API for at oprette indeks.
+
+## 1. Motivation 
+Man kan nu oprette indeks i V4 API det vil være godt at få implementeret den mulighed så det kan gøres fra gc2-admin i fremtiden.
+
+## 2. Foreslået løsning
+
+## 3. Problemer med bagudkompatibilitet
+
+## 4. Sikkerhedsmæssige implikationer
+
+## 5. Performance-implikationer
+
+## 6. Dokumentationsbehov
+
+## 7. Arbejdsnoter
+
+## 8. Issue tracker  
+
+## 9. Tilsagn/tilkendegivelse
+GEOsmeden+
