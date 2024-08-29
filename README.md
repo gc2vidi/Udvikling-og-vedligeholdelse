@@ -5,6 +5,7 @@ Der er pt. gang i følgende projekter:
 [004] GC2: Bør understøtte SSO   
 [009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi    
 **[014]: Konfliktsøgning i Vidi bør understøtte variabel buffer**    
+[005]: Datafordeleren – datahøst og berigede datasæt    
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
