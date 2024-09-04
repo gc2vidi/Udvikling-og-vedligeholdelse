@@ -6,6 +6,9 @@ Man kan i øjeblikket sætte en bruger til at arve rettigheder fra en anden brug
 Det ville være en fordel, hvis man kan sætte en bruger til at arve rettigheder fra flere brugere. Det vil give muligheden for at arbejde mere struktureret med rettighedsstyring. Så kan man lave forskellige roller alt efter dataområde, og tildele en bruger en eller flere roller i systemet. Hvis der så kommer nye lag til i et område, så skal de bare tilføjes rollen, og de brugere der har den rolle vil så automatisk få redigeringsadgang.
 
 ## 2. Foreslået løsning
+Kunne det laves således, at i stedet for at tjekke én nedarving, så loopes der igennem et array af tildelte roller og hvis en af dem giver lov til den ønskede request stoppes der og requesten udføres.   
+
+På den måde skal der ikke laves om på den grundlæggende mekanik
 
 ## 3. Problemer med bagudkompatibilitet
 
