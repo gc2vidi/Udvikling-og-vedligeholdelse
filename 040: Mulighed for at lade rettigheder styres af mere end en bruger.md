@@ -20,4 +20,5 @@ Det ville være en fordel, hvis man kan sætte en bruger til at arve rettigheder
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-GEOsmeden ++
+GEOsmeden ++  
+MapCentia ++  
