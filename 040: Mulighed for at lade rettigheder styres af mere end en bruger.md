@@ -8,7 +8,9 @@ Det ville være en fordel, hvis man kan sætte en bruger til at arve rettigheder
 ## 2. Foreslået løsning
 Kunne det laves således, at i stedet for at tjekke én nedarving, så loopes der igennem et array af tildelte roller og hvis en af dem giver lov til den ønskede request stoppes der og requesten udføres.   
 
-På den måde skal der ikke laves om på den grundlæggende mekanik
+På den måde skal der ikke laves om på den grundlæggende mekanik.
+
+Jeg tænker det vil være en fin løsning. Det er mest for at få muligheden for at have flere roller til forskellige brugergruppe, som kan kombineres. Hvis der f.eks. er write rettighed til et lag i en af rollerne. Så får brugeren write rettighed til laget uanset hvad de andre tildelte roller har af rettigheder.
 
 ## 3. Problemer med bagudkompatibilitet
 
