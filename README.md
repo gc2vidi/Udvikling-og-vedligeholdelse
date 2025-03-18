@@ -33,6 +33,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [027] Mulighed for central vedligehold af baggrundskort (Bootstrap)     
 [014] Konfliktsøgning i Vidi bør understøtte variabel buffer (2025.2.1)    
 [018] Udvidelse af funktionalitet i Brevflet-modul (master)    
+[026] Prompt for login ved start af redigering (2025.3.2)   
 
 
 
