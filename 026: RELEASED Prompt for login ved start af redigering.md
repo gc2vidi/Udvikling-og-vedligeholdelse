@@ -8,6 +8,8 @@ Man kan starte en redigering eller oprettelse af nye objekter uden at være logg
 
 Forslaget om at logge ind, kan komme f.eks. når man trykker submit efter redigering. Eller det kan komme når man trykker på + for at lave et nyt objekt, eller på blyanten/skraldespanden for at redigere eller slette et objekt. Det foreslås også, at det i en config kan styres, om editeringsværktøjerne vises når man ikke er logget ind. med en true false værdi.
 
+Endelig løsning: Med en ny config `extensionConfig.editor.alwaysActivate=false` vil editor værktøjer ikke blive vist medmindre man er logget. 
+
 ## 3. Problemer med bagudkompatibilitet
 
 ## 4. Sikkerhedsmæssige implikationer
@@ -23,5 +25,5 @@ Forslaget om at logge ind, kan komme f.eks. når man trykker submit efter redige
 ## 9. Tilsagn/tilkendegivelse
 
 GEOsmeden++  
-Syddjurs++
+Syddjurs++   
 Geo Fyn++
