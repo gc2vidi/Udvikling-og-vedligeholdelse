@@ -31,7 +31,8 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [030] Vidi: Hurtig skift af baggrundskort i embed (Bootstrap)    
 [025] Opgradering til Bootstrap 5.2 (Bootstrap)    
 [027] Mulighed for central vedligehold af baggrundskort (Bootstrap)     
-[014] Konfliktsøgning i Vidi bør understøtte variabel buffer (2025.2.1)
+[014] Konfliktsøgning i Vidi bør understøtte variabel buffer (2025.2.1)    
+[018] Udvidelse af funktionalitet i Brevflet-modul (master)    
 
 
 
