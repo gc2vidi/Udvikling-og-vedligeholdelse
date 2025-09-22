@@ -1,0 +1,23 @@
+# [41]: Knap til aktivering af skråfotos eller streetview i embed mode
+
+## 1. Motivation
+Der ønskes mulighed for, at man i embed mode kan have en knap i højre side, som når den aktiveres åbner f.eks. Skråfoto eller streetview på det punkt der klikkes på i kortet.
+
+## 2. Foreslået løsning
+Det kunne laves ved at der laves en avanceret knap i stil med baggrundskort drawer, som folder ud og giver mulighed for at vælge en af de konfigurerede optioner, der så kunne være obliqueconfig1='xxx', obliqueconfig2='yyy' Hvis der ikke angives noget vises knappen ikke.
+
+Der kan også være en mere simpel løsning, som er at der i konfig filen angives en parameter obliqueconfigdefault='xxx' Som så kan være en af de 4 muligheder. Når den er angivet vises knappen i brugerfladen ellers ikke.
+
+## 3. Problemer med bagudkompatibilitet
+
+## 4. Sikkerhedsmæssige implikationer
+
+## 5. Performance-implikationer
+
+## 6. Dokumentationsbehov
+
+## 7. Arbejdsnoter
+
+## 8. Issue tracker  
+
+## 9. Tilsagn/tilkendegivelse
