@@ -1,1 +1,1 @@
-# 043: Håndtering af flere symbol- og labels-klasser
+# [43]: Håndtering af flere symbol- og labels-klasser
