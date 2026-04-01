@@ -34,6 +34,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [014] Konfliktsøgning i Vidi bør understøtte variabel buffer (2025.2.1)    
 [018] Udvidelse af funktionalitet i Brevflet-modul (master)    
 [026] Prompt for login ved start af redigering (2025.3.2)   
+[029] Vis krævede felter ved redigering af Views (GC2 2025.12.0)
 
 
 
