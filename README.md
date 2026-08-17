@@ -3,8 +3,16 @@
 Der er pt. gang i følgende projekter:
 
 [004] GC2: Bør understøtte SSO   
+
+Keycloak er som "identity and access management" platform. Keycloak kan forbinde til providers gennem OpenID og SAML2. Dette er i drift i fx GeoFA.    
+
 [009] Vidi: Implementering af GeoDanmark GeoFA funktionalitet i Vidi    
 [005]: Datafordeleren – datahøst og berigede datasæt    
+
+[013]: Optimering af QGIS projekter og upload af symboler og fonte   
+[043]: Håndtering af flere symbol- og labels-klasser   
+[019]: Resultatvisning som enkelt konfliktsøger    
+[040]: Mulighed for at lade rettigheder styres af mere end en bruger/rolle  
 
 De med **fed** er enten tæt på release eller er released men skal forbedres.   
 
@@ -35,6 +43,7 @@ Versionen projektet først er udgivet i fremgår af ( ).
 [018] Udvidelse af funktionalitet i Brevflet-modul (master)    
 [026] Prompt for login ved start af redigering (2025.3.2)   
 [029] Vis krævede felter ved redigering af Views (GC2 2025.12.0)
+[038] Vidi bør understøtte single tile baggrundskort fra wms tjenster
 
 
 
