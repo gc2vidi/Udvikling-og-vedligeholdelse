@@ -12,11 +12,19 @@ På den måde skal der ikke laves om på den grundlæggende mekanik.
 
 Jeg tænker det vil være en fin løsning. Det er mest for at få muligheden for at have flere roller til forskellige brugergruppe, som kan kombineres. Hvis der f.eks. er write rettighed til et lag i en af rollerne. Så får brugeren write rettighed til laget uanset hvad de andre tildelte roller har af rettigheder.
 
+For at få "ægte" nedarvning, så tjekkes hele grafen nu. Dvs. arvning fra flere sidestillede brugere, men også i flere led (bedste-, oldeforældre). Brugens egen privilegier indgår også. Grafens højeste privilegie vinder.
+
 ## 3. Problemer med bagudkompatibilitet
+
+Ingen
 
 ## 4. Sikkerhedsmæssige implikationer
 
+I dag er der en proxy-nedarvning - istedet for, at brugerens egne privilegier anvendes, så anvendes en stedfortræders. Hverken egne eller priviligier fra proxyens proxy anvendes (bedsteforældre). Efter denne patch vil hele grafen inkl. egne privilegier blive medtaget. Dette kan være en sikkerhedsrisko: Hvis fx en bruger før har haft skrive-adgang til et lag, men senere fået nedarvning fra en kun med læse-adgang, vil brugeren før kun have læse-adgang. Efter patch vil brugeren ny have skrive-adgang (gennem sine egne privilegier).
+
 ## 5. Performance-implikationer
+
+Ved token baseret APIer er der ingen performance-implikationer, da hele grafen bliver lagt i token. Ved andre APIer skal hele grafen resolves ved hver request, i stedet for en enkelt gruppe. Dette vurderes ikke til at have den store betydning, dog er der lavet caching af bruger-adgang i OWS således, at når en adgang er givet, så den adgang blive cached i 60 sekunder.
 
 ## 6. Dokumentationsbehov
 
