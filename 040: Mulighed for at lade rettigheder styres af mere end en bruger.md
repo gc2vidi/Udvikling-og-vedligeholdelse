@@ -12,7 +12,7 @@ På den måde skal der ikke laves om på den grundlæggende mekanik.
 
 Jeg tænker det vil være en fin løsning. Det er mest for at få muligheden for at have flere roller til forskellige brugergruppe, som kan kombineres. Hvis der f.eks. er write rettighed til et lag i en af rollerne. Så får brugeren write rettighed til laget uanset hvad de andre tildelte roller har af rettigheder.
 
-For at få "ægte" nedarvning, så tjekkes hele grafen nu. Dvs. arvning fra flere sidestillede brugere, men også i flere led (bedste-, oldeforældre). Brugens egen privilegier indgår også. Grafens højeste privilegie vinder.
+For at få "ægte" nedarvning, så tjekkes hele grafen nu. Dvs. nedarvning fra flere sidestillede brugere, men også i flere led (bedste-, oldeforældre). Brugens egen privilegier indgår også. Grafens højeste privilegie vinder.
 
 ## 3. Problemer med bagudkompatibilitet
 
