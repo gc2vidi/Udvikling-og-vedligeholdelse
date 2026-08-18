@@ -20,7 +20,7 @@ Ingen
 
 ## 4. Sikkerhedsmæssige implikationer
 
-I dag er der en proxy-nedarvning - istedet for, at brugerens egne privilegier anvendes, så anvendes en stedfortræders. Hverken egne eller priviligier fra proxyens proxy anvendes (bedsteforældre). Efter denne patch vil hele grafen inkl. egne privilegier blive medtaget. Dette kan være en sikkerhedsrisko: Hvis fx en bruger før har haft skrive-adgang til et lag, men senere fået nedarvning fra en kun med læse-adgang, vil brugeren før kun have læse-adgang. Efter patch vil brugeren ny have skrive-adgang (gennem sine egne privilegier).
+I dag er der en proxy-nedarvning - istedet for, at brugerens egne privilegier anvendes, så anvendes en stedfortræders. Hverken egne eller priviligier fra proxyens proxy anvendes (bedsteforældre). Efter denne patch vil hele grafen inkl. egne privilegier blive medtaget. Dette kan være en sikkerhedsrisko: Hvis fx en bruger før har haft skrive-adgang til et lag, men senere fået nedarvning fra en kun med læse-adgang, vil brugeren nu kun have læse-adgang. Efter patchen vil brugeren nu have skrive-adgang (gennem sine egne privilegier).
 
 ## 5. Performance-implikationer
 
