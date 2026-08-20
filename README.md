@@ -18,7 +18,11 @@ Der er pt. gang i følgende projekter:
 
 [042]: Knap til aktivering af skråfotos eller streetview i embed mode
 
-> **_NOTE:_** Kommer i næste release. "Drawer" løsning er valgt. Når skuffen åbnes er default service valgt og værktøjet aktiveret  
+> **_NOTE:_** Kommer i næste release. "Drawer" løsning er valgt. Når skuffen åbnes er default service valgt og værktøjet aktiveret
+
+[034]: Information om utilgængeligt lag
+
+> **_NOTE:_** Kommer i næste release. Rødt kryds vises ud for layer, hvis der er fejl (et invalid image). Virker kun for non-tiled layers, hvilket det man typisk anvender
 
 # Released udviklingsprojekter   
 Versionen projektet først er udgivet i fremgår af ( ).    
