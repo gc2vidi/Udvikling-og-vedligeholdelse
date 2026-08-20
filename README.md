@@ -16,6 +16,10 @@ Der er pt. gang i følgende projekter:
 
 > **_NOTE:_** Kommer i næste release. Hele nedarvnings-grafen tjekkes nu. Se issue for mere info.
 
+[042]: Knap til aktivering af skråfotos eller streetview i embed mode
+
+> **_NOTE:_** Kommer i næste release. "Drawer" løsning er valgt. Når skuffen åbnes er default service valgt og værktøjet aktiveret  
+
 # Released udviklingsprojekter   
 Versionen projektet først er udgivet i fremgår af ( ).    
 
